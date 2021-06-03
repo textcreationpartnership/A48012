@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a justice of peace to a counsellor at law concerning conventicles, with the counsellors reply</title>
+            <author>Justice of peace.</author>
+         </titleStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48012</idno><idno type="EEBO-CITATION">13111124</idno>
+  <idno type="VID">97635</idno>
+  <idno type="EEBO-PROQUEST">2240867008</idno>
+  
+            <idno type="STC">Wing L1405</idno>
+            <idno type="STC">ESTC R9347</idno>
+            <idno type="OCLC">13111124</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48012)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97635)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 744:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a justice of peace to a counsellor at law concerning conventicles, with the counsellors reply</title>
+                  <author>Justice of peace.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1670?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Conventicle act. --  1670.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:97635:1"/>
+            <head>A LETTER from a Justice of Peace TO A Counsellor at Law CONCERNING CONVENTICLES, With the Counsellors Reply.</head>
+            <opener>
+               <salute>
+                  <hi>
+                     <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>IR,</hi>
+               </salute>
+            </opener>
+            <p>SInce I had the Honour of serving his Majesty in his Commission of the Peace for this County, I have not met with that danger and difficulty as hath lately occur'd, which compels me to crave your judicious Counsel and Advise. On <hi>Monday</hi> last, two persons (of insolent behavi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> came to my House, stiling themselves Informers; these make Oath, that <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ey before at a private House, in a neighbour Village, were assembled se<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> persons, above the number of four, beside the Family, where was held a <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>enticle or Religious Exercise, contrary to the Tenor of the late Act, and <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Informers conjure me under the Penalty of 100 l. to Record the offence, <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o leavy the Fines accordingly; whereupon I sent for the Persons accu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and having them and the Informers face to face, I demanded whether <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> would own themselves guilty of a Conventicle within that Act; They <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> themselves present at a Religious Exercise, but deny it to be in other <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>er than according to the Liturgy and Practise of the Church of <hi>England;</hi>
+               <gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>say they) we profess the same Faith with the Church of <hi>England,</hi> Preach <gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>aintain the same Doctrine, Worship the same God through the one Me<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and by his Spirit; We admit persons of all Ages and Sexes to our <gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>oly, (a practice incompatible with Plots.) Whereupon I demanded of <gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>formers, (being upon their Oath) whether they could safely Swear, <hi>In</hi>
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, That this was, <hi>A pretended colourable Religious Exercise, in other <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> than according to the Liturgy and Practice of the Church of</hi> England; <gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ithal cautioned them to consider, that if they Swore the Affirmative, <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> must necessarily know, what the Liturgy is, what the Church of <hi>England</hi>
+               <pb n="2" facs="tcp:97635:2"/> is, and what its Practice is, unto all which the Informers were able to given other answer than this, That in as much as the Meeting was not in a Church or place of publick Worship, and no Common-Prayer read, (as they heard this they took to be a Conventicle within that Act. Lastly, (at the reque<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of the Defendants) I demanded of the Informers, whether they were prese<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> from the beginning to the end of the Exercise, to which they answered Ne<g ref="char:EOLhyphen"/>gatively. Sir, seeing the Act giveth me three Months time to deliberate o<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this Matter, I dismissed both parties, and here send you the Case with yo<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Fee, and crave your Opinion, Whither the Defendants are within this Sta<g ref="char:EOLhyphen"/>tute as the Evidence stands? I am, Sir,</p>
+            <closer>
+               <signed>Your humble Servant.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>The Answer.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Received your Letter and Fee, and for as much as the Determination <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Case proposed, depends upon our Knowledge of the genuine se<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of the late Statute against Conventicles, I have studiously endeavour to satisfie my own and your understanding, by considering, first the Tit<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> secondly the Preface; and thirdly the Body of the Act, and do herewith of<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> you my Disquisition of the whole.</p>
+            <p n="1">I. Of the Title, in these words, <hi>An Act to prevent Seditious Conventic<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>Sir, The men of my Profession do generally say, that Titles of Acts <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>Clavis Legum,</hi> and serves as contents to a Chapter: Now Sir, if you co<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>pare your Evidence with this Title, I find nothing of <hi>Sedition</hi> so much suggested, much less proved.</p>
+            <p>Let it also be considered, that this Kingdom hath been Blessed with same and worthy Justices of the Law, such as ever abhor'd harsh and severe In<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>pretations of Laws, especially where the Property and Liberty of the Sub<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> hath been concerned: And though this Act tells you, that it must be o<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>strued, <hi>Most largly and beneficially for the suppressing of Conventicles,</hi>
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you (knowing what the words import) may not thence take Liberty to m<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> any Conventicle a Crime which the Act doth not make so.</p>
+            <p>Wherefore my opinion is upon the Title of the Act, and Evidence o<gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> matter, the Defendants are not within the Act.</p>
+            <p n="2">II. We now proceed to the Prefatory part of the Act, in these We <hi>For providing more speedy Remedy against the growing and dangerous <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ctice of Seditious Sectaries, and other disloyal Persons, who under a pre<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of tender Consciences, have or may at their Meeting, contrive Insurrect<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> as late Experience hath shewn.</hi>
+            </p>
+            <p>We must now compare this Preface with the Evidence, as it is offer<gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> your Case, The Defendants in presence of the Informers, profess the <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and Doctrine established in the Church of <hi>England,</hi> Worship the same Go<gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> admit persons of all Ages and Sexes, which (say they) is incompatible
+<pb n="3" facs="tcp:97635:2"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ots, <hi>&amp;c.</hi> and all this the Informers seems to confess, at least give no Evi<g ref="char:EOLhyphen"/>dence to the contrary; and it is a known <hi>Axiom</hi> in Law and Reason, <hi>De non <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>arentibus et non existentibus eadem ratio;</hi> Wherefore I conclude the De<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>dants are not within the Preface of the Act.</p>
+            <p n="3">III. But thirdly, it must be granted, that though neither the Title nor the <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reface of (the Act) do reach the Defendants, yet the Body of the Act may, <gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>he words— <hi>That if any person or persons, above the Age of</hi> 16 <hi>years,</hi> &amp;c. <hi>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ll be present at any Assembly, Conventicle, or Meeting, under colour or pre<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nce of any Exercise of Religion, in other manner than according to the Li<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rgy and Practise of the Church of</hi> England, &amp;c. <hi>where there shall be five of <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>re persons Assembled over and above those of the Houshold,</hi> &amp;c.</p>
+            <p>Sir, I dare be positive in my Opinion, That if these words do not reach the defendants, no part of the Act doth, wherefore every part of them deserves due consideration; And first of these, <hi>Whosoever shall be present at any <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>sembly.</hi> &amp;c. <hi>under colour or pretence of any Exercise of Religion,</hi> &amp;c.</p>
+            <p>To my utmost understanding there can but two sences be put upon these <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ords,</p>
+            <p>First, either a real truly Christian Exercise of Religion, which yet cannot without its pretence and colour any more than the false one, or,</p>
+            <p>Secondly, such an Exercise of Religion as carrieth only a pretence and co<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>r, without Truth and Sincerity.</p>
+            <p>Our enquiry must be in which of these two sences to interpret these words <gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>e Act, and first of the first of these.</p>
+            <p>
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Whether these words can be construed as intending to punish a real truly <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ristian Exercise of Religion.</p>
+            <p>Of this I shall first give you my Opinion, and then my Reason. My Opi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>on is, the words cannot with Reason and Charity be so understood;</p>
+            <p>My reason is, because I suspect that such an Interpretation would make <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Statute a nullity in its self; for that all Casuists, Lawyers, and Divines, <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>gree, that every Law made against the Law of God, is null <hi>(Ipso facto)</hi>
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any obligation of Conscience.</p>
+            <p>Now to demonstrate that this sence is contrary to the Law of God, let us <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> read the words according to this construction and they would run thus, <hi>any person or persons, above the number of four shall worship God truly and <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rely in other manner</hi> &amp;c. <hi>shall incur the Penalty of the Act.</hi> If the Act <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> been thus Penned. I leave it to your Judgment how harsh it would seem <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ery Christian Ear, even the Legislators themselves.</p>
+            <p>And now consider how it will agree with these Scriptures following, 1 <hi>Tim. I will therefore that man Pray every where,</hi> for number and place indefinite, 18.30 31. <hi>And</hi> Paul <hi>dwelt two whole years in his hired h<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>use, and received all <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>come to him, Preaching the Kingdom of God, no man forbidding him.</hi> Mark 2.<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>. <hi>And it was noised that he was in the house, and straight many were gathered to<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>er, insomuch as there was no Room for them.</hi>
+            </p>
+            <pb n="4" facs="tcp:97635:3"/>
+            <p>Sir, having personal Knowledge of your Loyalty to your Prince, and Reve<g ref="char:EOLhyphen"/>rence to his Laws, I have great reason to conclude, that you will abhor to in<g ref="char:EOLhyphen"/>terpret the sence of this Branch of the Statute, that it intends to punish tru<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and sincere Religion where-ever Exercised; nor can the number, more o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> less, give any turpitude or innocency; for if the Worship in it self be Evil, is intollerable in Four, if good, fourscore cannot make it Evil: Wherefore we having but our choice of two Interpetations, (it being beyond my read to conceive a third;) we are constrained to take the second sense premised which is agreeable not only to the Letter of the Law, but consonant to tru<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Reason and Religion, and then our result must be, that this clause of the Act, (compared with the Preface) intends to punish such, as under colour <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pretence, (as opposed to true and sincere Religion) do or may meet to con<g ref="char:EOLhyphen"/>trive Insurrections.</p>
+            <p>Sir, having now, I hope, truly discovered the crime intended by this Ac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it now remain we examin, whether the Evidence offer'd, will be found <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Kindred hereunto, so as to make the Defendants guilty of the Crime, and consequently to incur the Penalty, I think it beyond contradiction, that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>lour or pretence, as opposed to Truth and sincerity, none but the Omnis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ent God can take cognizance of, otherwise than by Overt Acts, discoveri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the falsehood of the mind, so that if the Informers had sworn (as I find no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that the Defendants met under colour or pretence, and give no evidence Fact, either of false Doctrine, or Seditious words, or contrivances tendi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to Insurrections, the Law hath no cogency on your conscience to credit s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Evidence: If you consider the words of the Act, (<hi>Do or may contribe Insu<g ref="char:EOLunhyphen"/>rections, as Experience shews,</hi> and thence gather, that though no Evide<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> evince that they did, yet at such Meetings, Insurrectious may be contrive I answer, no experience of any time or age gives instance, that such wic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Plots or contrivances were forged in such Meetings, where Women, Child<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> persons of all Ages and Sexes promiscuously Assemble; nay, the Pract<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> rather seems a security against such Plots.</p>
+            <p>Wherefore my Opinion is, that this Branch of the Act doth not reach Defendants, as your evidence stands.</p>
+            <p>And for as much as this Branch is not Independant, but carries its influe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> into the whole crime described by the Act, my Opinion is, the Defenda<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are wholly out of the reach of the Statute; yet lest you should doubt, or Opinion belove-ruled herein, we will subjoyn the words following in Act, and then examin whether they will further charge or acquit the De<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>dants.</p>
+            <p>[If any person or persons. <hi>&amp;c.</hi> shall be present at any Conventicle. <hi>&amp;c.</hi> d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r colour or pretence of any Exercise of Religion, <hi>in other mariner than <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>cording to the Lithurgy and Practise of the Church of</hi> England.] post an A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vocate for the Informer may tell you, that the Clause suppose<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Exercise of Religion can be real and sincere, but colourable and prete<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="5" facs="tcp:97635:3"/> only, that is not performed in the very words of the Liturgy. To which) answer, that the subsequent words, <hi>and Practise of the Church,</hi> give a clear contradiction to such a Paraphrase, because in all our publick Assemblies, men pray before and after Sermon, in other words than the Liturgie, and yet not reputed criminal within this Act; but for your better satisfaction, it may <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em expedient we consider how to construe these words, <hi>(in other manner than according to the Lithurgy.)</hi>
+            </p>
+            <p>You know the Saviour of the World taught his Disciples to Pray, <hi>Mat.</hi> 6.9. <hi>After this manner therefore Pray ye, Our Father which art in Heaven.</hi> You find many of the Disciples Prayers recorded in Scripture, <hi>Act.</hi> 1.24. &amp; 4.23. and gra<g ref="char:EOLhyphen"/>ciously accepted of God, and yet you never read they used that Form, but in other words agreeing for matter.</p>
+            <p>Now Sir, if these two Parallel Questions were put,</p>
+            <p>Did the Disciples of Christ pray in any other manner than according to the Lords Prayer?</p>
+            <p>Did the Defendants pray in other manner than according to the Liturgy.</p>
+            <p>To the former of these, I know you will answer, that though the Disci<g ref="char:EOLhyphen"/>ples did not use the form of words, yet their Prayers did accord with, or <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere according to the Lords Prayer.</p>
+            <p>The same answer will necessarily serve to the latter, refering to the Litur<g ref="char:EOLhyphen"/>ge, still supposing your evidence offers no Accusation against the Defendants <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rayers dissonant from the <hi>Liturgie,</hi> more than want of Form. Take this <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rther consideration, that the Liturgy comprehends both the Epistles and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ospels, and all other portions of Scripture appointed to be read, and then <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> us thus reason, whatsoever accords with the Scriptures, (part of the Li<g ref="char:EOLhyphen"/>turgy) accords with the Liturgy, and is not in other manner than according <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it. Upon the 18 of <hi>July,</hi> for the second Lesson, is to be read 1 <hi>Tim.</hi> 2. <hi>I <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll therefore that men pray every where, lifting up holy hands, without wrath and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>bting.</hi> And upon the 30 of <hi>June</hi> is to be read <hi>Eph.</hi> 6. <hi>Praying always with I supplications in the Spirit;</hi> so that all manner of Prayer, at what time or place <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ever, (if in the Spirit) is you see allowed by, and is not in any other man<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er than according to the Liturgy.</p>
+            <p>We therefore again conclude that your Evidence gives no indication that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Defendants Exercise of Religion, was in other manner than according the Liturgy of the Church.</p>
+            <p>It now remains we consider the last words, (and practise of the Church of <hi>England.</hi>) Sir, I observe you gave the Informers a reasonable caution, (say <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>) if you state the Defendants did Worship in other manner than accor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>g to the Liturgy and practise of the Church, it is requisite to understand <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t the Liturgy is, what the Church is, and what its Practise is; it falls to <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> share to resolve you. Of the Liturgy we have already discoursed, it re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons we inquire of the Practise of the Church, and its impossible to know <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Practise till we resolve this Question.</p>
+            <pb n="6" facs="tcp:97635:4"/>
+            <p>Quest. <hi>What is the Church of</hi> England <hi>intended in this Statute?</hi>
+            </p>
+            <p>
+               <hi>Solut.</hi> Sir, I need not tell you the Greek word for Church, its taken for any convention of men, as well Profane as Ecclesiastical, so the Profane As<g ref="char:EOLhyphen"/>sembly in the 19 of <hi>Acts</hi> 32. is translated from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Church, or <hi>Ecclesia.</hi>
+            </p>
+            <p>But Sir, it is safe for you and me to give such interpretations of words, as our own Laws and Ecclesiastical constitutions favour, of which <hi>I</hi> find but two notions of this word Church, <hi>(viz.)</hi> one in the Book of Cannons, and the other in the book of Articles, one of these I take to be intended in this Act, and we shall examine which;</p>
+            <p>That of the Cannon is in these words, [<hi>Whosoever shall affirm that the sacred Synod of this Nation, in the Name of Christ, and by the Kings Au<g ref="char:EOLhyphen"/>thority Assembled, is not the true Church of</hi> England <hi>by Representation, let him be Excommunicated.</hi>
+            </p>
+            <p>Sir, after what manner the <hi>Synod</hi> worshipt God, or whether at all (in that Assembly) is wholly forreign to your knowledge and mine, neither do I find that your Informers accuse the Defendants for worshipping God in other <hi>manner than</hi> according to the <hi>Practice of the Synod,</hi> wherefore this sense of the word Church I know you will Explode.</p>
+            <p n="2">2. The other notion is in the book of the 39 Articles, where I find Arti<g ref="char:EOLhyphen"/>cle the 19, Church thus defined, <hi>[The Visible Church of Christ, is a Con<g ref="char:EOLhyphen"/>gregation of faithful men, in the which the pure word of God is Preacht, and the Sacraments duly Administred according to Christs Ordinance, in all things that of necessity are requisite to the same.]</hi> Sir, this Definition seems to carry in it a Morral and perpetual Reason, such as no time or circum<g ref="char:EOLhyphen"/>stance can deface, and by a Synecdoche, or part for the whole, seem to tell you, that every such congregation in <hi>England,</hi> is the Church of <hi>England,</hi> this was so in Queen <hi>Maries</hi> days, when the Protestants were outed the publick Oratories, and denied the use of their Liturgies, as in Queen <hi>Elizabeths</hi> days when restored to both. Now (seeing Liturgies are confessed not essentially necessary to a true Church) it would be enquired, whether the Defendants professing the Faith, Doctrine and Worship of the Church of <hi>England</hi> as now established, and denying their Worship to be in other manner than according to the Practice of the Church, and this in presence of the Informers, who offer not the least evidence to the contrary, you (being also upon your Oath) have not reason or charity to judge that these people are such a Church as is before defined.</p>
+            <p>Now <hi>I</hi> am compelled to give my Opinion in the Affirmative, Thus far we have discust the Notion of a <hi>Church</hi> in the Law sense; it remains that we now consider it in the Notion and Opinion of some private Men, and we will suppose that by the Church of <hi>England</hi> is intended <hi>[The Parochial Assemblies of Christians using the Liturgy and Formes according to the Ru<g ref="char:EOLhyphen"/>brick,]</hi> and hence it may be inserted, that the Defendants exercising Religion without the Formes of the Liturgy, have done in other manner than accor<g ref="char:EOLhyphen"/>ding to the Practice of the Church.</p>
+            <pb n="7" facs="tcp:97635:4"/>
+            <p>Sir, I observed in your Letter you put a proper Question to the Informers, <hi>viz.</hi> Whither they were present from the beginning to the end of the Exer<g ref="char:EOLhyphen"/>cise, whereunto they answered Negatively, and the Defendants not confes<g ref="char:EOLhyphen"/>sing such Omission: Now taking the former allowed <hi>Axiom, <hi>Non esse, et non apparere idem est;</hi>
+               </hi> I must conclude.</p>
+            <p>It is not safe for you to Record this an Offence within this Statute upon this Evidence.</p>
+            <p>But Sir, if your Evidence had been full, (as possibly it may occur, in cases that come before you in this kind) and that it should be Sworn, that from first to last, the Common-Prayer was omitted; and let it be supposed, that the Prayers and Sermons are the same for matter with the Services done in our Churches; and you should then Ask me, whether such an Exercise be within this Act, as done in other <hi>manner than according to the Practise of the Church.</hi>
+            </p>
+            <p>To which (besides what I have already offered) let me further add,</p>
+            <p>Do the Parochial Ministers Pray before and after Sermon without the Liturgy,</p>
+            <p>So do the Persons we speak of in the same manner.</p>
+            <p>Are our Ministers Episcopally Ordained,</p>
+            <p>So are many of the Dissenters.</p>
+            <p>Doth the Practice of their Churches allow of unordained men to Preach as Candidates, for Approbation?</p>
+            <p>The Practice of our Church will warrant unordained men (designing the Office) to Preach, <hi>&amp;c.</hi> of which the Ancient Church-Histories hath given Instances, as <hi>Paul</hi> and <hi>Barnabas</hi> two whole years before Ordination; <hi>Origen</hi> for some time, and was therein justified by Eminent Fathers of the Church, viz. <hi>Alexander</hi> Bishop of <hi>Jerusalem,</hi> and <hi>Theoclistus</hi> Bishop of <hi>Cesarea.</hi> The like may be affirmed of <hi>Evelpis</hi> at <hi>Laranda, Paulinus</hi> at <hi>Iconium, Theodorus</hi> at <hi>Cynada.</hi>
+               <note n="*" place="margin">Eu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <hi>6.</hi> ca<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note>
+            </p>
+            <p>In our case the only question seems to be, whither two Assemblies, Wor<g ref="char:EOLhyphen"/>shipping in the same manner, with this only difference, that one performs more than an other, makes a real difference for manner; The degrees of more or less are not ordinarily esteemed to difference mens actions; one Minister Preacheth an hour, an other half an hour; one reads a Homily, and other Preacheth his own Sermon, and we never accuse them of defect in man<g ref="char:EOLhyphen"/>ner of their Exercise as differing from each other.</p>
+            <p>Thus Sir, I have given you my sense of what you demanded, wherein <hi>I</hi> have exercised my faculty, not only in my particular Calling, relating to the Law, but in my general Calling, as a Christian, though <hi>I</hi> know there wants not persons of your quality that have judged otherways, and given Presi<g ref="char:EOLhyphen"/>dents thereof: But <hi>I</hi> also know that upon Appeals at the Sessions, in a neigh<g ref="char:EOLhyphen"/>bour County, the Appellants have been discharged upon some of the Rea<g ref="char:EOLhyphen"/>sons here alledged; I suspect the Penalty of your 100 l. may stick in your thoughts, though I think your danger little, yet <hi>I</hi> have so great respect for
+<pb n="8" facs="tcp:97635:5"/> you and your Family, to wish you so good Opticks, as to foresee future, as well as present dangers. <hi>I</hi> presume you have read the famons instances of two Persons of your quality, <hi>Empson</hi> and <hi>Dudley</hi> in <hi>Henry</hi> the sevenths days, they by colour of Penal Laws, (as this is) invaded the Property of the Peo<g ref="char:EOLhyphen"/>ple in that Kings Reign, and in the next <hi>Henry</hi> the Eight, were beheaded at <hi>Tower-Hill,</hi> and the Informers were corrected by Stocks and Pillories throughout the Kingdom, as Examples to future Ages. For your own part Sir, Reckon your self to see well, when you borrow your Countries Eyes, and direct your Judgment by the Verdict of Juries, upon the Evidence of honest and credible Witnesses, of both which, just care ought to be had, first of Juries, that they be Empannel'd by the Impartial Sworn Officer the Law appoints; and secondly as to Witnesses, that they be of undoubted Credit, for seeing the third part of the Fines comes to their Pockets, un<g ref="char:EOLhyphen"/>reasonable it is to admit of any but Persons of known Integrity for Wit<g ref="char:EOLhyphen"/>nesses.</p>
+            <closer>
+               <salute>Sir,</salute> Thus doing, you will secure both your own Reputation for<lb/> Justice and Integrity, and also the Peace of all his Majesties Loyal<lb/> Subjects; which will be according to the desire of<lb/>
+               <signed>Your Humble Servant.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
